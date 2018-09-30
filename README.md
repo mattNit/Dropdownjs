@@ -1,7 +1,7 @@
 # Dropdownjs
 A simple javascript dropdown element creater thingy
 
-##Basic usage
+## Basic usage
 ``` Html
   <div id="dropdown"></div>
 ```
@@ -27,7 +27,7 @@ When you create a new dropdown it changes the div element to
   </div>
 ```
 
-##Methods
+## Methods
 ``` javascript
   var dropdown = new Dropdown();
   
